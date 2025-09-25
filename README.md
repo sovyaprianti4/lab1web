@@ -1,8 +1,8 @@
 # Lab1web
 ### Nama : Sovy Aprianti
 ### Kelas : TI.24.A4
-NIM : 312410344
-Mata Kuliah : Pemrograman web 1
+### NIM : 312410344
+### Mata Kuliah : Pemrograman web 1
 ## Code
 <img width="1615" height="512" alt="Screenshot 2025-09-26 051005" src="https://github.com/user-attachments/assets/5a570daf-497e-445f-b401-c311af6b13dc" />
 
