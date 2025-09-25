@@ -21,7 +21,7 @@
 
 
 
-## screenshot HTML
+## Hasil
 <img width="1740" height="787" alt="Screenshot  1 2025-09-25 222450" src="https://github.com/user-attachments/assets/0fb6e96c-c6d0-40b2-b78f-d2e7b78e02e9" />
 
 
