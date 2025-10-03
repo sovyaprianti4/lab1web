@@ -3,26 +3,44 @@
 ### Kelas : TI.24.A4
 ### NIM : 312410344
 ### Mata Kuliah : Pemrograman web 1
-## Code
-<img width="1705" height="1021" alt="Screenshot 2025-09-26 050916" src="https://github.com/user-attachments/assets/d0fe5f60-3f99-4263-b00f-783523729cf2" />
+
+## Paragraf
+<img width="1152" height="442" alt="lab1" src="https://github.com/user-attachments/assets/c3e9f8b8-3bd0-4b21-a6f1-47885944c7fe" />
+
+## Heading
+<img width="651" height="81" alt="lab 1" src="https://github.com/user-attachments/assets/c6f9a8bd-4f56-4a2e-8df4-54fb7fc297bc" />
+
+<img width="543" height="80" alt="lab1 (2)" src="https://github.com/user-attachments/assets/2ed6ab15-57c8-4f65-896d-f77552e62a23" />
+
+<img width="543" height="74" alt="lab1 (3)" src="https://github.com/user-attachments/assets/1927949a-a287-4d02-940d-270e65bed695" />
+
+## Teks Format
+<img width="673" height="49" alt="tex format" src="https://github.com/user-attachments/assets/ee9f6dc3-07a5-4d99-97a6-c5e1babd4a8e" />
+
+## Gambar
+<img width="609" height="134" alt="Screenshot 2025-10-03 181058" src="https://github.com/user-attachments/assets/a020b4ff-e7c5-4d0a-9075-0867264f98c4" />
+
+## Hyperlink
+<img width="836" height="178" alt="Screenshot 2025-10-03 181122" src="https://github.com/user-attachments/assets/7fbf5cce-a86a-4e09-80e6-97883920cba4" />
+
+## Hasil file lab1_tag_dasar.html
+<img width="1920" height="1200" alt="lab 1 hasil" src="https://github.com/user-attachments/assets/c1811367-99dc-4136-a255-08424e513547" />
+
+## Hasil file lab1_halaman2.html
+<img width="1920" height="1200" alt="lab1 hasil" src="https://github.com/user-attachments/assets/0093df20-c456-4047-8c78-37ff26392d62" />
 
 
 
-<img width="1615" height="512" alt="Screenshot 2025-09-26 051005" src="https://github.com/user-attachments/assets/5a570daf-497e-445f-b401-c311af6b13dc" />
-
-
-
-<img width="1306" height="945" alt="Screenshot 2025-09-26 051031" src="https://github.com/user-attachments/assets/fb3a6b95-1220-4afc-ae76-a89b736fec29" />
-
-
-
-<img width="984" height="316" alt="Screenshot 2025-09-26 051055" src="https://github.com/user-attachments/assets/56cec99d-969a-4c6b-add9-6977bb293882" />
 
 
 
 
-## Hasil
-<img width="1740" height="787" alt="Screenshot  1 2025-09-25 222450" src="https://github.com/user-attachments/assets/0fb6e96c-c6d0-40b2-b78f-d2e7b78e02e9" />
+
+
+
+
+
+
 
 
 
