@@ -29,7 +29,16 @@
 ## Hasil file lab1_halaman2.html
 <img width="1920" height="1200" alt="lab1 hasil" src="https://github.com/user-attachments/assets/0093df20-c456-4047-8c78-37ff26392d62" />
 
+## Pertanyaan
+<img width="1034" height="290" alt="Question" src="https://github.com/user-attachments/assets/ddacf58f-1ab1-4525-ac82-3201ee5e0cd5" />
 
+## Jawaban
+# 1. Jika terjadi kesalahan penulisan tag (misalnya <p> tidak ditutup dengan </p> atau <img> ditulis salah seperti <imq>), maka:
+Browser tidak akan menampilkan error langsung, karena HTML bersifat toleran terhadap kesalahan.
+Namun, tampilan halaman bisa menjadi tidak sesuai dengan yang diharapkan (misalnya paragraf tidak rapi, gambar tidak muncul, atau struktur berantakan).
+Kesimpulan: Tidak muncul error di layar, tetapi hasil tampilan bisa rusak.
+
+# 2. 
 
 
 
