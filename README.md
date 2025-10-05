@@ -33,16 +33,32 @@
 <img width="1034" height="290" alt="Question" src="https://github.com/user-attachments/assets/ddacf58f-1ab1-4525-ac82-3201ee5e0cd5" />
 
 ## Jawaban
-1. Jika terjadi kesalahan penulisan tag (misalnya <p> tidak ditutup dengan </p> atau <img> ditulis salah seperti <imq>), maka:
+## 1.
+Jika terjadi kesalahan penulisan tag (misalnya <p> tidak ditutup dengan </p> atau <img> ditulis salah seperti <imq>), maka:
 Browser tidak akan menampilkan error langsung, karena HTML bersifat toleran terhadap kesalahan.
 Namun, tampilan halaman bisa menjadi tidak sesuai dengan yang diharapkan (misalnya paragraf tidak rapi, gambar tidak muncul, atau struktur berantakan).
 Kesimpulan: Tidak muncul error di layar, tetapi hasil tampilan bisa rusak.
 
-2. 
+## 2. 
 - Tag <p> berfungsi untuk membuat paragraf baru
   Penjelasan = Menampilkan Teks dalam satu blok dengan jarak antar paragraf otomatis
 - Tag <br> berfungsi untuk mebuat baris baru (Line break)
   Penjelasan = Hanya berpindah ke baris berikutnya tanpa membuat paragraf baru
+
+## 3.
+- Atribut** title** berfungsi untuk menampilkan teks saat kursor diarahkan ke gambar (tooltip)
+- Atribut** Alt** berfungsi untuk menampilkan teks pengganti jika gambar gagal dimuat
+
+## 4.
+Tidak harus diisi keduanya. Agar gambar tetap proporsional, sebaiknya isi salah satu saja. Jika kedua atribut diisi dengan ukuran tidak sesuai perbandingan asli,
+gambar bisa menjadi terlalu gepeng atau melebar.
+
+## 5.
+- _blank berfungsi untuk membuka link di tab atau jendela baru
+- _self berfungsi untuk membuka link di halaman yang sama (default)
+- _top berfungsi untuk membuka link di jendela penuh, menutup semua frame
+- _parent berfungsi untuk membuka link di halaman induk (jika halaman berada dalam frame)
+
 
 
 
